@@ -65,8 +65,8 @@ alias gfo 'git fetch origin'
 
 alias gg 'git gui citool'
 alias gga 'git gui citool --amend'
-alias ggpull 'git pull origin (_current_branch)'
-alias ggpush 'git push origin (_current_branch)'
+alias ggl 'git pull origin (_current_branch)'
+alias ggp 'git push origin (_current_branch)'
 alias ggsup 'git branch --set-upstream-to=origin/(_current_branch)'
 #
 alias gignore 'git update-index --assume-unchanged'
